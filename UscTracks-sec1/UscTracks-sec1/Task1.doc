@@ -1,0 +1,139 @@
+# C# Basics — Practice Task 01
+
+## Student Grade Management System
+
+**Level:** Beginner  
+**Application Type:** C# Console Application  
+**Estimated Time:** 60–90 Minutes  
+**Total Marks:** 7 Marks + Bonus Challenge
+
+---
+
+## Task Description
+
+Develop a C# Console Application to manage student grades. The program should collect student information, calculate grades and percentages, determine pass/fail status, and display statistics.
+
+### Instructions
+
+- Use only the C# concepts covered in the course.
+- Do not create additional methods or classes.
+- Write your code inside the `Main` method only.
+
+---
+
+## Task 1 — Variables & Input/Output (1 Marks)
+
+1. Declare variables to store the student's name, age, and mark.
+2. Read the student's information using `Console.ReadLine()`.
+3. Display a welcome message containing the student's name using String Interpolation.
+4. Declare a constant named `MaxMark` with a value of `100` using `const`.
+
+## Task 2 — Type Conversion & Operators (1 Marks)
+
+1. Convert the age and mark from `string` to numeric values using `TryParse`.
+2. Calculate the student's percentage.
+3. Calculate the number of marks needed to reach 100.
+4. Validate that the mark is between 0 and 100. Reject any mark outside this range.
+
+## Task 3 — if / else if / else (1 Marks)
+
+Use conditional statements to determine the student's grade according to the following table:
+
+| Mark Range | Grade |
+|---|---|
+| 90–100 | Excellent |
+| 80–Less than 90 | Very Good |
+| 65–Less than 80 | Good |
+| 50–Less than 65 | Pass |
+| Less than 50 | Fail |
+
+Requirements:
+
+1. Determine the student's grade using `if`, `else if`, and `else`.
+2. Determine whether the student passed or failed.
+3. A student passes if their mark is greater than or equal to 50.
+
+## Task 4 — switch (1 Marks)
+
+Create a menu that allows the student to select an academic department. Use a `switch` statement to identify the selected department.
+
+| Choice | Department |
+|---|---|
+| 1 | Computer Science |
+| 2 | Information Systems |
+| 3 | Artificial Intelligence |
+| Any other choice | Invalid Department |
+
+## Task 5 — Loops & Control Statements (1 Marks)
+
+1. Use a `for` loop to print numbers from 1 to 10.
+2. Use a `while` loop to ask the user for a password, allowing a maximum of three attempts.
+3. Use `break` to stop the loop when the correct password is entered.
+4. Use `continue` to skip odd numbers and print only even numbers from 1 to 20.
+5. Use a `do-while` loop to display a menu that repeats until the user selects Exit.
+
+## Task 6 — Arrays & foreach (1 Marks)
+
+1. Create an array to store the marks of five students.
+2. Read the marks from the user.
+3. Use `foreach` to display all student marks.
+4. Calculate the total and average marks.
+5. Find the highest and lowest marks.
+6. Count the number of students who passed and the number who failed.
+
+## Task 7 — var & dynamic (1 Marks)
+
+Write a section of code that satisfies the following requirements:
+
+1. Use `var` to declare a string variable and a numeric variable.
+2. Attempt to assign a value of a different type to a variable declared using `var`. Explain in a comment why this causes a compilation error.
+3. Use `dynamic` to assign a numeric value and then a string value to the same variable.
+4. Explain in a comment the difference between `var` and `dynamic`, including when type-related errors are detected.
+
+---
+
+## Sample Output
+
+```text
+===== Student Grade Management System =====
+
+Enter student name: Ahmed
+Enter student age: 21
+Enter student mark: 87
+
+Student Name: Ahmed
+Age: 21
+Mark: 87 / 100
+Percentage: 87%
+Grade: Very Good
+Status: Passed
+Marks needed for 100: 13
+
+Select Department:
+1. Computer Science
+2. Information Systems
+3. Artificial Intelligence
+
+Enter choice: 1
+Department: Computer Science
+```
+
+---
+
+## Bonus Challenge
+
+Improve your program by implementing the following features:
+
+1. Keep asking for the student's mark if the input is not numeric or is outside the valid range of 0–100.
+2. Display a final report containing the five students' marks, average mark, highest mark, and lowest mark.
+
+---
+
+## Submission Requirements
+
+- Submit your C# source code file (`.cs`).
+- Ensure that the program runs correctly.
+- Use clear variable names and proper indentation.
+- Test your program with valid and invalid inputs.
+
+**Good luck, and happy coding!**
