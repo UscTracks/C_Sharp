@@ -1,0 +1,15 @@
+D:\Huma volve\UscTracks-sec1\UscTracks-sec1\bin\Debug\net10.0\UscTracks-sec1.exe
+D:\Huma volve\UscTracks-sec1\UscTracks-sec1\bin\Debug\net10.0\UscTracks-sec1.deps.json
+D:\Huma volve\UscTracks-sec1\UscTracks-sec1\bin\Debug\net10.0\UscTracks-sec1.runtimeconfig.json
+D:\Huma volve\UscTracks-sec1\UscTracks-sec1\bin\Debug\net10.0\UscTracks-sec1.dll
+D:\Huma volve\UscTracks-sec1\UscTracks-sec1\bin\Debug\net10.0\UscTracks-sec1.pdb
+D:\Huma volve\UscTracks-sec1\UscTracks-sec1\obj\Debug\net10.0\UscTracks-sec1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Huma volve\UscTracks-sec1\UscTracks-sec1\obj\Debug\net10.0\UscTracks-sec1.AssemblyInfoInputs.cache
+D:\Huma volve\UscTracks-sec1\UscTracks-sec1\obj\Debug\net10.0\UscTracks-sec1.AssemblyInfo.cs
+D:\Huma volve\UscTracks-sec1\UscTracks-sec1\obj\Debug\net10.0\UscTracks-sec1.csproj.CoreCompileInputs.cache
+D:\Huma volve\UscTracks-sec1\UscTracks-sec1\obj\Debug\net10.0\UscTracks-sec1.sourcelink.json
+D:\Huma volve\UscTracks-sec1\UscTracks-sec1\obj\Debug\net10.0\UscTracks-sec1.dll
+D:\Huma volve\UscTracks-sec1\UscTracks-sec1\obj\Debug\net10.0\refint\UscTracks-sec1.dll
+D:\Huma volve\UscTracks-sec1\UscTracks-sec1\obj\Debug\net10.0\UscTracks-sec1.pdb
+D:\Huma volve\UscTracks-sec1\UscTracks-sec1\obj\Debug\net10.0\UscTracks-sec1.genruntimeconfig.cache
+D:\Huma volve\UscTracks-sec1\UscTracks-sec1\obj\Debug\net10.0\ref\UscTracks-sec1.dll

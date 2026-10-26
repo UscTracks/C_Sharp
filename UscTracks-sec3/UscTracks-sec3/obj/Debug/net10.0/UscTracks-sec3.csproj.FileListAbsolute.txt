@@ -1,0 +1,15 @@
+D:\USC_Tracks\C#\UscTracks-sec1\UscTracks-sec1\bin\Debug\net10.0\UscTracks-sec3.exe
+D:\USC_Tracks\C#\UscTracks-sec1\UscTracks-sec1\bin\Debug\net10.0\UscTracks-sec3.deps.json
+D:\USC_Tracks\C#\UscTracks-sec1\UscTracks-sec1\bin\Debug\net10.0\UscTracks-sec3.runtimeconfig.json
+D:\USC_Tracks\C#\UscTracks-sec1\UscTracks-sec1\bin\Debug\net10.0\UscTracks-sec3.dll
+D:\USC_Tracks\C#\UscTracks-sec1\UscTracks-sec1\bin\Debug\net10.0\UscTracks-sec3.pdb
+D:\USC_Tracks\C#\UscTracks-sec1\UscTracks-sec1\obj\Debug\net10.0\UscTracks-sec3.GeneratedMSBuildEditorConfig.editorconfig
+D:\USC_Tracks\C#\UscTracks-sec1\UscTracks-sec1\obj\Debug\net10.0\UscTracks-sec3.AssemblyInfoInputs.cache
+D:\USC_Tracks\C#\UscTracks-sec1\UscTracks-sec1\obj\Debug\net10.0\UscTracks-sec3.AssemblyInfo.cs
+D:\USC_Tracks\C#\UscTracks-sec1\UscTracks-sec1\obj\Debug\net10.0\UscTracks-sec3.csproj.CoreCompileInputs.cache
+D:\USC_Tracks\C#\UscTracks-sec1\UscTracks-sec1\obj\Debug\net10.0\UscTracks-sec3.sourcelink.json
+D:\USC_Tracks\C#\UscTracks-sec1\UscTracks-sec1\obj\Debug\net10.0\UscTracks-sec3.dll
+D:\USC_Tracks\C#\UscTracks-sec1\UscTracks-sec1\obj\Debug\net10.0\refint\UscTracks-sec3.dll
+D:\USC_Tracks\C#\UscTracks-sec1\UscTracks-sec1\obj\Debug\net10.0\UscTracks-sec3.pdb
+D:\USC_Tracks\C#\UscTracks-sec1\UscTracks-sec1\obj\Debug\net10.0\UscTracks-sec3.genruntimeconfig.cache
+D:\USC_Tracks\C#\UscTracks-sec1\UscTracks-sec1\obj\Debug\net10.0\ref\UscTracks-sec3.dll

@@ -1,0 +1,89 @@
+# C# Assignment: Core Concepts Challenge 💻
+
+## Objective
+Apply your knowledge of C# core concepts by building a Console Application that manages student information, grades, and results.
+
+### Task Requirements
+
+**1. Checked and Unchecked**
+- Create an integer variable with the value `int.MaxValue`.
+- Try adding `1` inside a `checked` block.
+- Handle the `OverflowException` using `try-catch`.
+- Repeat the operation inside an `unchecked` block and observe the result.
+
+**2. Formatting and ToString()**
+- Store a student's name, age, and grade.
+- Convert the age to a string using `ToString()`.
+- Display the grade with two decimal places.
+- Display the current date in `yyyy-MM-dd` format.
+
+**3. Object and Override**
+- Create a `Student` class containing `Id`, `Name`, and `Grade`.
+- Override the `ToString()` method to display all student information in a readable format.
+- Create at least two student objects and print them.
+
+**4. Value Types vs Reference Types**
+- Create an integer variable and copy its value into another variable. Change the second variable and print both.
+- Create an array and assign it to another array variable. Change an element through the second variable and print both arrays.
+- Explain the difference between the two results.
+
+**5. Nullable and Null Operators**
+- Create a nullable integer called `Bonus` and assign `null` to it.
+- Use `??` to provide a default value of `0`.
+- Create a nullable string for the student's nickname.
+- Use `?.` and `??` to print the nickname in uppercase or display `"No Nickname"` when it is null.
+- Use the ternary operator `?:` to determine whether the student passed or failed, assuming the passing grade is `50`.
+
+**6. Enums and Casting**
+- Create an enum named `StudentStatus` with the values `Failed`, `Passed`, and `Excellent`.
+- Convert an enum value to an integer.
+- Convert an integer back to an enum using explicit casting.
+- Use `Enum.IsDefined()` to check whether a numeric value represents a declared enum member.
+
+**7. Params Keyword**
+- Create a method named `CalculateTotal` using `params int[] marks`.
+- Return the total of all marks.
+- Call the method with different numbers of arguments, including no arguments.
+
+**8. Dynamic Keyword**
+- Create a `dynamic` variable.
+- Assign an integer to it, then assign a string.
+- Perform a valid operation on each value.
+- Explain why an invalid method call on a `dynamic` variable may cause a runtime error instead of a compile-time error.
+
+**9. Arrays**
+- Create an array that stores the marks of five subjects.
+- Fill the array with values.
+- Print all marks using `foreach`.
+- Calculate and display the total, average, highest mark, and lowest mark.
+
+## Final Challenge: Student Management Console App
+
+Combine the previous requirements into one application.
+
+Your application must:
+
+1. Create at least three students.
+2. Store each student's information using a class.
+3. Store the students in an array.
+4. Use an enum to represent each student's status.
+5. Calculate each student's average using a method with `params`.
+6. Display student information using the overridden `ToString()` method.
+7. Format all averages to two decimal places.
+8. Handle nullable values safely.
+9. Demonstrate the difference between value types and reference types.
+10. Handle integer overflow using `checked` and `try-catch`.
+
+## Submission Requirements
+
+- Submit the complete C# source code.
+- Make sure the application compiles and runs successfully.
+- Use meaningful variable, class, and method names.
+- Add comments explaining important parts of your code.
+- Test your application with different inputs and edge cases.
+
+## Bonus Challenge ⭐
+
+Add a search feature that allows the user to search for a student by ID, and display a suitable message if the student does not exist.
+
+**Good luck! Keep coding and keep learning. 🚀**
