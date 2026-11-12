@@ -1,0 +1,15 @@
+D:\collage\USC-Tracks\Usc-Tracks-NET\UscTracks-sec4\UscTracks-sec4\bin\Debug\net10.0\UscTracks-sec4.exe
+D:\collage\USC-Tracks\Usc-Tracks-NET\UscTracks-sec4\UscTracks-sec4\bin\Debug\net10.0\UscTracks-sec4.deps.json
+D:\collage\USC-Tracks\Usc-Tracks-NET\UscTracks-sec4\UscTracks-sec4\bin\Debug\net10.0\UscTracks-sec4.runtimeconfig.json
+D:\collage\USC-Tracks\Usc-Tracks-NET\UscTracks-sec4\UscTracks-sec4\bin\Debug\net10.0\UscTracks-sec4.dll
+D:\collage\USC-Tracks\Usc-Tracks-NET\UscTracks-sec4\UscTracks-sec4\bin\Debug\net10.0\UscTracks-sec4.pdb
+D:\collage\USC-Tracks\Usc-Tracks-NET\UscTracks-sec4\UscTracks-sec4\obj\Debug\net10.0\UscTracks-sec4.GeneratedMSBuildEditorConfig.editorconfig
+D:\collage\USC-Tracks\Usc-Tracks-NET\UscTracks-sec4\UscTracks-sec4\obj\Debug\net10.0\UscTracks-sec4.AssemblyInfoInputs.cache
+D:\collage\USC-Tracks\Usc-Tracks-NET\UscTracks-sec4\UscTracks-sec4\obj\Debug\net10.0\UscTracks-sec4.AssemblyInfo.cs
+D:\collage\USC-Tracks\Usc-Tracks-NET\UscTracks-sec4\UscTracks-sec4\obj\Debug\net10.0\UscTracks-sec4.csproj.CoreCompileInputs.cache
+D:\collage\USC-Tracks\Usc-Tracks-NET\UscTracks-sec4\UscTracks-sec4\obj\Debug\net10.0\UscTracks-sec4.dll
+D:\collage\USC-Tracks\Usc-Tracks-NET\UscTracks-sec4\UscTracks-sec4\obj\Debug\net10.0\refint\UscTracks-sec4.dll
+D:\collage\USC-Tracks\Usc-Tracks-NET\UscTracks-sec4\UscTracks-sec4\obj\Debug\net10.0\UscTracks-sec4.pdb
+D:\collage\USC-Tracks\Usc-Tracks-NET\UscTracks-sec4\UscTracks-sec4\obj\Debug\net10.0\UscTracks-sec4.genruntimeconfig.cache
+D:\collage\USC-Tracks\Usc-Tracks-NET\UscTracks-sec4\UscTracks-sec4\obj\Debug\net10.0\ref\UscTracks-sec4.dll
+D:\collage\USC-Tracks\Usc-Tracks-NET\UscTracks-sec4\UscTracks-sec4\obj\Debug\net10.0\UscTrack.77C36408.Up2Date
